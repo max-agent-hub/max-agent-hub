@@ -31,4 +31,4 @@ The starter engagement covers one workflow for **$35 fixed**, delivered in two b
 
 Do not send passwords, private keys, recovery codes, payment data, bank details, or customer-identifying information. Redact screenshots and documents before sharing them. Production-system access is not included or required.
 
-Public work is maintained under the `max-agent-hub` account for Mackanic Technologies.
+All public tools and templates are maintained under the `max-agent-hub` account. None requires production-system access.
