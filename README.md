@@ -10,11 +10,19 @@ Process documentation for small teams. We turn rough notes, transcripts, and red
 
 | Resource | Use it for | Data boundary |
 | --- | --- | --- |
+| [Free SOP Starter Template](https://payhip.com/b/CJa0O) | Download the template, field checklist, example, and security guide as one ZIP | Email required by Payhip; no payment details |
 | [Browser SOP Builder](https://max-agent-hub.github.io/browser-sop-builder/) | Turn workflow facts into structured Markdown | Runs locally in the browser |
 | [SOP Quality Checker](https://max-agent-hub.github.io/sop-quality-checker/) | Check a draft against ten practical controls | Pasted text stays in browser memory |
-| [Operations SOP Template](https://github.com/max-agent-hub/operations-sop-template) | Start from an editable procedure and field-checklist structure | Public MIT-licensed files |
+| [Operations SOP Template source](https://github.com/max-agent-hub/operations-sop-template) | Inspect or fork the public template repository | Public MIT-licensed files |
 
 The browser tools require no account, send no entries to a server, and have public source code.
+
+## Ready-Made Downloads
+
+- [SOP Template Pack for Small Teams - $15](https://payhip.com/b/LzFha)
+- [Freelancer Security Starter Kit - $9](https://payhip.com/b/xOrNA)
+
+The free starter is enough to document one workflow. The paid SOP pack adds multiple reusable variants, checklists, and worked examples.
 
 ## Fixed-Scope Cleanup
 
